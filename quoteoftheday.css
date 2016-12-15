@@ -1,0 +1,51 @@
+body {background-image: url("Colorful-space-abstract-design-stars_1680x1050.jpg");}
+
+img {
+    display: block;
+    margin: 0 auto;}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #8080ff;
+    text-align:center;
+   
+}
+li {display:inline-block; margin: auto;}
+li a {
+    display: block;
+    color:#f2d9e5;
+    padding: 8px;
+text-decoration: none}
+    
+li {
+    float: middle;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1 {font-family: "Lucida Calligraphy";
+   text-align: center;
+   font-size: 50px;
+   color:#ffffff;
+}
+
+
+img {border:5px solid #e6e6ff;
+     padding:5px
+}
